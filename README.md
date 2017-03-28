@@ -7,6 +7,8 @@
 ## Project Title: NYC TAXI
 Term: Spring 2017
 
+APP LINK: https://hz2412.shinyapps.io/nyc_taxi/
+
 + **NYC TAXI**:
 	+ Dejian Wang
 	+ Xuanyu Xiao
