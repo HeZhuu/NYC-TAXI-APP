@@ -2,7 +2,7 @@
 
 ### [Project Description](doc/project2_desc.md)
 
-![](doc/screenshot.png)
+![](doc/screenshot2.png)
 
 ## Project Title: NYC TAXI
 Term: Spring 2017
